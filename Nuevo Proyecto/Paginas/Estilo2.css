@@ -1,0 +1,35 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: #192729;
+    color: white;
+}
+h1{
+    text-align: center;
+}
+nav{
+    text-align: center;
+    list-style: none;
+    background: #092327;
+    margin: auto;
+
+}
+nav li{
+    display: inline-block;
+}
+nav li a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+    margin: 0 100px;
+}
+nav li a:hover{
+    background: #a7745f;
+}
+footer{
+    background-color: rgb(32, 73, 151);
+    color: white;
+    text-align: center;
+    margin: 100px;
+    text-decoration: none;
+}
